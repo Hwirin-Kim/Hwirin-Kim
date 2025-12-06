@@ -5,4 +5,4 @@ Hi There!
 </a>
 
 
-Portfolio <a href="https://hwirin-kim.github.io/portfolio/">https://hwirin-kim.github.io/portfolio/</a>
+Portfolio : <a href="https://hwirin-kim.github.io/portfolio/" target="_blank">https://hwirin-kim.github.io/portfolio/</a>
